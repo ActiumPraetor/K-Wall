@@ -3,6 +3,10 @@
 
 Welcome!
 
+If you'd like to obtain ready-to-run precompiled binaries of K-Wall, please click the "binaries" folder above. That's where they live.
+
+&nbsp;
+
 ### What Is K-Wall?
 
 K-Wall is a specific type of firewall built for a specific purpose, which in a nutshell is this: adding comprehensive spam detection and filtration capabilities based on regular expressions to games that have integrated text-based "chat" functionality. K-Wall adds powerful filtration tools to any game that passes chat traffic "in the clear" (read: uncompressed/unencrypted). (Trivia: The "K" in K-Wall stands for Kleene, in honor of Stephen Cole Kleene, the inventor of regular expressions.)
